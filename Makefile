@@ -11,13 +11,13 @@ deps:
 lint:
 	flake8 hello_world test
 
-test_cov:
-
-test_xunit:
-
 test:
 	PYTHONPATH=. py.test
 	PYTHONPATH=. py.test  --verbose -s
+
+test_cov:
+
+test_xunit:
 
 test_smoke:
 		curl --fail 127.0.0.1:5000
