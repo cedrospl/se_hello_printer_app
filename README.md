@@ -103,3 +103,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 # Materiały
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+
+# StatusCake
+
+- Dodany zostal test, ktory wykonuje sie co 5 minut i sprawdza po http czy nasza aplikacja stoi na stronie (Heroku)
