@@ -11,9 +11,9 @@ deps:
 lint:
 	flake8 hello_world test
 
-test_cov
+test_cov:
 
-test_xunit
+test_xunit:
 
 test:
 	PYTHONPATH=. py.test
