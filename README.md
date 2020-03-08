@@ -3,8 +3,7 @@ Status budowania aplikacji z travisa:
 [![Build Status](https://travis-ci.org/cedrospl/se_hello_printer_app.svg?branch=master)](https://travis-ci.org/cedrospl/se_hello_printer_app)
 
 Status uptime'u aplikacji ze statuscake'a:
-<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=MFroGgyzQx&Days=1&Design=1" /></a>
-
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=MFroGgyzQx&Days=1&Design=2" /></a>
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
